@@ -1,0 +1,145 @@
+{
+    "faq":[
+        {
+            "section":"General",
+            "questions":[
+                {
+                    "Q":"Whats the game about?",
+                    "A":"Mythical Beings is a collection of trading cards. The main purpose of the players is to complete the collection, gathering all the creatures in their account."
+                },
+                {
+                    "Q":"How many creatures are there?",
+                    "A":"The complete collection consists of 50 creatures, 10 from each continent. However, only 30 of them are available from the beginning, and 3 more will be included each month until they reach 50."
+                },
+                {
+                    "Q":"How can I get the cards?",
+                    "A":"There are two main ways. The first is to buy a pack of cards from Tarasca. We sell them at an approximate price of € 2, and they contain 3 random cards. The second is to buy them from other users, who will normally put their repeated cards on sale."
+                },
+                {
+                    "Q":"Are all creatures equally easy to get?",
+                    "A":"No. There are three kinds of creatures: common, rare and epic. The most difficult to achieve are the epics, of course."
+                },
+                {   "Q":"Are these creatures real or not?",
+                    "A":"It depends on what you consider 'real'. In any case they are mythological beings that are part of the worldview of different peoples of the world. We have spent a lot of time researching and making sure that our creatures are not 'fakes', but cultural incarnations of the mystery that inhabits the world. Each creature has its history and its cultural function, which you can learn by acquiring the cards."
+                }
+            ]
+        },
+        {
+            "section":"Registration and Login",
+            "questions":[
+                {
+                    "Q":"Where is my account?",
+                    "A":"It is important that you understand that this is a blockchain game. Our wallet allows you simple and adequate access to the p2p network, that's all. Your user account is an account on the Ardor blockchain, not on the Tarasca website. We do not even have a user database."
+                },
+                {
+                    "Q":"Can I change my password?",
+                    "A":"Nope. As we have explained, user accounts are accounts in the Ardor blockchain. Each password generates its public address, in a unique way, so if you change your password, your address will change (and you will not have there the cards you have acquired with the previous one).You can have as many accounts as you want, but remember that each password is associated with a single account. "
+                },
+                {
+                    "Q":"So what is the 'username' and 'PIN' for?",
+                    "A":"For convenience of use we have given the option of saving the password locally. This way you won't have to copy it every time you buy a pack or place an offer to sell a card. For this, the password is stored encrypted on your device, and is used through the PIN. It is very comfortable, but you have to remember that PIN and username belong only to your device, so they will not help you recover your account on other devices or in case of breakdowns. To keep your account safe you only have to keep the password securely."
+                }
+            ]
+        },
+        {
+            "section":"Trading",
+            "questions":[
+                {
+                    "Q":"If I have repeated cards, what do I do with them?",
+                    "A":"Normally, you would exchange them with other users, to get the missing cards. To do this, click on the 'trade' button of the card, and the market page of that card will open to you. If you want to accept the best Bid, just create an Ask for the same price. If it seems too low, you can place a Ask for a higher price and wait for another user to accept it."
+                },
+                {
+                    "Q":"Are the cards scarce? Can I speculate with its price?",
+                    "A":"No, this collection does not have that dynamic. Tarasca DAO can print more editions of the cards, if those of the first edition are sold. In addition, the price of the pack of three cards will remain at approximately €2, so there should be no sudden revaluation. The market prices of each card should adjust to its difficulty spontaneously, depending on whether they are common, rare or epic."
+                },
+                {
+                    "Q":"If it's not to make me rich, what do I want the cards for?",
+                    "A":"Like any collection of trading cards in the world, the motivation of the collector is not to invest, but to learn and have fun. With this collection you will discover many legendary creatures of the world, as well as their home cultures of which, in many cases, you had never heard of. On top of that, collecting and exchanging cards with your friends or with strangers from anywhere in the world is always fun."
+                }
+            ]
+        },
+        {
+            "section":"Jackpot",
+            "questions":[
+                {
+                    "Q":"What is the jackpot?",
+                    "A":"50% of the income from card sales is accumulated in a smart contract. Once a week, that Jackpot is distributed to users who have completed the collection in that period. In addition, along with that prize in Ignis, the winners will also receive a card, the most special of the collection: the Tarasca creature."
+                },
+                {
+                    "Q":"How can I claim the Jackpot?",
+                    "A":"There is a button for this in the corresponding section of the wallet, which will only allow you to do so if you have at least one card from each creature."
+                },
+                {
+                    "Q":"Where do I get the money?",
+                    "A":"In the same account of your card collection."
+                },
+                {
+                    "Q":"To claim the Jackpot, do I have to deliver my cards?",
+                    "A":"Yes, you must return one card of each creature to the game."
+                },
+                {
+                    "Q":"Can I claim it as many times as I want?",
+                    "A":"Yes, but each time you will have to complete the collection again."
+                },
+                {
+                    "Q":"If I manage to collect the initial 30, can I claim the Jackpot and get the Tarasca card?",
+                    "A":"Yes. To claim the Jackpot you have to collect all the cards available at that time. So it is easier to win in the first months, since it is enough to get fewer cards."
+                },
+                {
+                    "Q":"What happens if there is no winner for a week?",
+                    "A":"Money accumulates for the next cycle."
+                }
+            ]
+        },
+        {
+            "section":"Tarasca Cards",
+            "questions":[
+                {
+                    "Q":"How is it different from the other cards in the game?",
+                    "A":"At first sight in nothing. It is a card like the others, with its attributes, history, etc."
+                },
+                {
+                    "Q":"So why is it so special?",
+                    "A":"Because the holders of this card will receive every week, in the form of dividends, a part (10%) of the collection proceeds from the sale of packs. As the card is scarcer, the fewer holders there are, the greater the amount they receive."
+                }
+            ]
+        },{
+            "section":"Other uses",
+            "questions":[ 
+                {
+                    "Q":"Can I use the cards in any game?",
+                    "A":"Not yet, but we are already working on the first online game that will use our cards. In the future we would like to create many different games with them."
+                },
+                {
+                    "Q":"I am a game dev and I want to use your cards in my own project. Do I have to ask permission?",
+                    "A":"No, you can do it without permission. And besides, we would be delighted if you did! However, if you want to use the illustrations but not the cards (the blockchain tokens), then you should know that they are under Creative Commons Attribution-NonCommercial 3.0 Unported (CC BY-NC 3.0) license."
+                }
+            ]
+        },{
+            "section":"Blockchain and data security",
+            "questions":[ 
+                {
+                    "Q":"What are the Ignis that I need to buy cards?",
+                    "A":"Ignis is a cryptocurrency. Look closely: they are not points or an internal currency of this game. It is a real currency with market value. You can exchange it for bitcoin, EUR, USD or any other currency you want."
+                },
+                {
+                    "Q":"Is it safe to store many Ignis in my wallet?",
+                    "A":"The Tarasca wallet is an online wallet, and therefore is exposed to various types of hack. We do our best to keep it safe, but we strongly recommend that you use it only to manage your cards. You should never use it to manage accounts in which you save significant amounts of money."
+                },
+                {
+                    "Q":"I have forgotten my password, can you help me recover my account?",
+                    "A":"No. Tarasca cards are stored in Ardor blockchain accounts, not Tarasca servers. And the blockchain is a p2p network, so there is no central agent that can return your account. That's why we insist that you make sure you keep the password in a safe place."
+                },
+                {
+                    "Q":"My cards have disappeared!",
+                    "A":"If you have not moved your cards from your account and have disappeared, it is possible that the password has been stolen. Please always make sure you keep the password securely: encrypted and offline. If you have saved it in plain text, or in an email, or shared it with other people ... it's normal that you were robbed."
+                },
+                {
+                    "Q":"Why can't I sell my cards?",
+                    "A":"All blockchain transactions have to pay a small fee, in Ignis, as an anti-spam measure. They are very cheap (approximately $ 0.0005), but they are necessary for transactions to be processed, including card sale offers. So, if you have received some cards as a gift but you have not yet acquired Ignis, you would need to get a very small amount of this currency to be able to sell the cards."
+                }
+            ]
+        }    
+    ]
+}
+

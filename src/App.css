@@ -1,0 +1,12 @@
+body {
+ background-image: url("images/bg.jpg");
+ background-attachment:fixed;
+}
+
+/*style={{display:"inline-block", width:"90%"}*/
+
+.boxed {
+    margin:10px;
+    border-radius: 10px;
+    border: 1px solid whitesmoke ;
+}
